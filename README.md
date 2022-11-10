@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sagarss777
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...web dev AND VSLI
 - 🌱 I’m currently learning ...Web Dev and DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...linkedin.com/sagar.shivanagutti
